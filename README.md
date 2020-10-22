@@ -6,11 +6,19 @@
 
 <h3>Introduction.</h3>
 
-<p>IPT stands for industry preparation training which is a program conducted by NSBM to provide a smooth and easy transition of undergraduates of the school of computing to the industrial life. This program allows computing students to showcase their talents and skills to the industry experts. This platform will enable the industry people to identify key personalities within the undergraduates and recruit them if necessary. At the same time, undergraduates will have a firsthand experience about the industrial life, where they need to work during their carrier.
-IPT management has decided to expand this process by conducting an online communication platform between students and experts under the supervision of the IPT manager (Admin). The best solution is to have a website which is accessible anywhere in the world. We have developed a website along with windows form application (Admin portal) to meet the criteria defined by the management staff. This system allows users to create free membership accounts. But users cannot access their accounts until the IPT manager decides to approve. At the same time, the IPT manager can remove any user if they found fake or inappropriate. Admin accounts can only be created programmatically with the request of IPT manager.
-The project consists of two major components, • A web platform for all the users including Admin(s). • Windows form application only for Admin(s).
-RESTful API – acts as a middleware coordinating databases and two applications.
-Database • MySQL Database – running on SQL Server.<p>
+<p>IPT stands for industry preparation training which is a program conducted by NSBM to provide a smooth and easy transition of undergraduates of the school of computing to the industrial life. This program allows computing students to showcase their talents and skills to the industry experts. This platform will enable the industry people to identify key personalities within the undergraduates and recruit them if necessary. At the same time, undergraduates will have a firsthand experience about the industrial life, where they need to work during their carrier.<p>
+<p>IPT management has decided to expand this process by conducting an online communication platform between students and experts under the supervision of the IPT manager (Admin). The best solution is to have a website which is accessible anywhere in the world. We have developed a website along with windows form application (Admin portal) to meet the criteria defined by the management staff. This system allows users to create free membership accounts. But users cannot access their accounts until the IPT manager decides to approve. At the same time, the IPT manager can remove any user if they found fake or inappropriate. Admin accounts can only be created programmatically with the request of IPT manager.<p>
+<p>The project consists of two major components, <p>
+  <ul>
+    <li>A web platform for all the users including Admin(s)</li>
+    <li>Windows form application only for Admin(s)</li>
+  </ul>  
+  
+<p>RESTful API – acts as a middleware coordinating databases and two applications.<p>
+<p>Database<p>
+  <ul>
+    <li>MySQL Database – running on SQL Server.</li>
+  </ul>  
 
 <h3>Project Scope, Objectives, and Goals.</h3>
   
@@ -24,7 +32,7 @@ Database • MySQL Database – running on SQL Server.<p>
   <li>No one can access the restricted pages unless login credentials are correct (cannot access using URL address).</li>
   <li>Industry experts can filter the students by their interested job category and communicate with them.</li>
   <li>Students can also communicate with industry experts regarding industry matters.</li>
-  <li>Admin can remove accounts and messages within the admin’s portal.<li>
+  <li>Admin can remove accounts and messages within the admin’s portal.</li>
 </ul>
 
 <h3>Project Requirements</h3>
@@ -44,7 +52,9 @@ Database • MySQL Database – running on SQL Server.<p>
 <h4>3.2. Non-Functional Requirements</h4>
 <h5>Reliability</h5>
 <p>This system should contain only very reliable information. That is why we need to permit the admins to inspect all user accounts and their messages. And admins have the facility to remove any user at any time if found inappropriate and to remove unnecessary messages shared through this system.<p>
-<h5>Scalability/h5>
+  
+<h5>Scalability</h5>
 <p>In terms of future, we may have to expand the resources and facilities provided by this IPT system. Therefore, we need to think ahead and make the pitch for future players. That is why we have designed these web application and windows form application using MVC patterns. And the API is developed using REST architecture.<p>
-<h5>Security/h5>
+  
+<h5>Security</h5>
 <p>System security is the crucial factor that needs to be at the very highest point in the requirements analysis. Because if a security breach occurs that means the trust between users and the system will fall causing maybe to leave us even. Therefore we have decided to use Https than Http which encrypts data when transferring.<p>
