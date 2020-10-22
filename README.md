@@ -15,12 +15,23 @@ Database • MySQL Database – running on SQL Server.<p>
 <h3>Project Scope, Objectives, and Goals.</h3>
   
 <p>The end goal of this project is to develop a reliable and secured communication platform for both computing students and industry experts. And the IPT manager should have to have the facilities to access all the transactions including messages. Several sub-objectives need to be satisfied to achieve the main goal as defined below.<p>
-• Any computing student and/or industrial experts can get registered with the system for free through online registration.
-• All the registered users need admin’s approval for login into the system.
-• Only the admin can approve.
-• Once approved by the admin, users are given the freedom to change their profile details including Job category and the qualifications except for email address, NIC, user type and the name.
-• Users can change their password at any time.
-• No one can access the restricted pages unless login credentials are correct (cannot access using URL address).
-• Industry experts can filter the students by their interested job category and communicate with them.
-• Students can also communicate with industry experts regarding industry matters.
-• Admin can remove accounts and messages within the admin’s portal.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+  
+  
+  <ul>
+  <li>Any computing student and/or industrial experts can get registered with the system for free through online registration.<li>
+  <li>All the registered users need admin’s approval for login into the system.Only the admin can approve..</li>
+  <li>Once approved by the admin, users are given the freedom to change their profile details including Job category and the qualifications except for email address, NIC, user type and the name.</li>
+  <li>Users can change their password at any time.</li>
+  <li>No one can access the restricted pages unless login credentials are correct (cannot access using URL address).</li>
+  <li>Industry experts can filter the students by their interested job category and communicate with them.<li>
+  <li>Students can also communicate with industry experts regarding industry matters.</li>
+  <li>Admin can remove accounts and messages within the admin’s portal.<li>
+</ul>
