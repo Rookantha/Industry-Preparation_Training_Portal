@@ -1,6 +1,6 @@
 # Industry-Preparation_Training_Portal
 
-<h3>Reliable and Secured Communication platform for both computing students and industry experts. </h3>
+<h3>Reliable and Secured Communication platform for both computing students and industry experts.HTML / CSS / JavaScript / C# /ASP.NET Web API </h3>
 <h5 style="color:red">This repository provides software documentation and user guide only. If you need source code for this project contact me.</h5>
 
 
