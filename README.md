@@ -15,19 +15,10 @@ Database • MySQL Database – running on SQL Server.<p>
 <h3>Project Scope, Objectives, and Goals.</h3>
   
 <p>The end goal of this project is to develop a reliable and secured communication platform for both computing students and industry experts. And the IPT manager should have to have the facilities to access all the transactions including messages. Several sub-objectives need to be satisfied to achieve the main goal as defined below.<p>
-• 
-• 
-• 
-• 
-• 
-• 
-• 
-• 
-  
   
   <ul>
   <li>Any computing student and/or industrial experts can get registered with the system for free through online registration.<li>
-  <li>All the registered users need admin’s approval for login into the system.Only the admin can approve..</li>
+  <li>All the registered users need admin’s approval for login into the system.Only the admin can approve.</li>
   <li>Once approved by the admin, users are given the freedom to change their profile details including Job category and the qualifications except for email address, NIC, user type and the name.</li>
   <li>Users can change their password at any time.</li>
   <li>No one can access the restricted pages unless login credentials are correct (cannot access using URL address).</li>
